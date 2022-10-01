@@ -43,8 +43,10 @@
             "background": "#F5BDE6",
             "foreground": "#494D64",
             "properties": {
+              "folder_icon": "<#494D64>..\ue5fe..</>",
+             
               "home_icon": "\uf015",
-              "style": "full"
+              "style": "agnoster_short"
             },
             "powerline_symbol": "\ue0b4",
             "style": "powerline",
