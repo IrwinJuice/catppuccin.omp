@@ -4,7 +4,7 @@
 	Catppuccin for <a href="https://ohmyposh.dev/">Oh My Posh</a>
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
 </h3>
-<h4  align="center"><a href="https://github.com/Microsoft/Terminal">Windows Terminal</a></h4>
+
 
 ## catppuccin.omp
 ![catppuccin](https://github.com/IrwinJuice/catppuccin.omp/blob/main/catppuccin.png)
@@ -12,7 +12,11 @@
 ## catppuccin_short.omp
 ![catppuccin_short](https://github.com/IrwinJuice/catppuccin.omp/blob/main/catppuccin_short.png)
 
-## Usage 
+## WSL Ubuntu
+![catppuccin_wsl](https://github.com/IrwinJuice/catppuccin.omp/blob/main/catppuccin_short_ubuntu.png)
+
+## Usage ([Windows Terminal](https://github.com/Microsoft/Terminal))
+
 - Install [Oh My Posh](https://ohmyposh.dev/)
 - Creat $PROFILE (run in PowerShell)
 ```
@@ -31,6 +35,10 @@ oh-my-posh init pwsh --config 'C:\Users\<username>\AppData\Local\oh-my-posh\catp
 ```
 . $PROFILE
 ```
+
+See official documentation for 
+- [Linux](https://ohmyposh.dev/docs/installation/linux) or [MacOS](https://ohmyposh.dev/docs/installation/macos) installation
+- [Prompt](https://ohmyposh.dev/docs/installation/prompt) configuration
 
 &nbsp;
 
