@@ -5,15 +5,17 @@
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
 </h3>
 
+## catppuccin
+![catppuccin](https://github.com/IrwinJuice/catppuccin.omp/blob/main/assets/catppuccin_s.png)
 
 ## catppuccin.omp
-![catppuccin](https://github.com/IrwinJuice/catppuccin.omp/blob/main/catppuccin.png)
+![catppuccin](https://github.com/IrwinJuice/catppuccin.omp/blob/main/assets/catppuccin.png)
 
 ## catppuccin_short.omp
-![catppuccin_short](https://github.com/IrwinJuice/catppuccin.omp/blob/main/catppuccin_short.png)
+![catppuccin_short](https://github.com/IrwinJuice/catppuccin.omp/blob/main/assets/catppuccin_short.png)
 
 ## WSL Ubuntu
-![catppuccin_wsl](https://github.com/IrwinJuice/catppuccin.omp/blob/main/catppuccin_short_ubuntu.png)
+![catppuccin_wsl](https://github.com/IrwinJuice/catppuccin.omp/blob/main/assets/catppuccin_short_ubuntu.png)
 
 ## Usage ([Windows Terminal](https://github.com/Microsoft/Terminal))
 
