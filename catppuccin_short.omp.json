@@ -24,11 +24,11 @@
                     "mint": "\uf30f",
                     "opensuse": "\uf314",
                     "raspbian": "\uf315",
-                    "ubuntu": "\uf31c",
+                    "ubuntu": "\uebc9",
                     "windows": "\ue70f"
                   },
                   "style": "diamond",
-                "template": "{{ if .WSL }}WSL at {{ end }}{{.Icon}}",
+                "template": "{{.Icon}}",
                 "type": "os"
             },
           {
