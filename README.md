@@ -5,17 +5,25 @@
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
 </h3>
 
-## catppuccin
-![catppuccin](https://github.com/IrwinJuice/catppuccin.omp/blob/main/assets/catppuccin_s.png)
+![catppuccin](https://github.com/IrwinJuice/catppuccin.omp/blob/main/assets/catppuccin_all.png)
+# Previews
 
-## catppuccin.omp
-![catppuccin](https://github.com/IrwinJuice/catppuccin.omp/blob/main/assets/catppuccin.png)
-
-## catppuccin_short.omp
-![catppuccin_short](https://github.com/IrwinJuice/catppuccin.omp/blob/main/assets/catppuccin_short.png)
-
-## WSL Ubuntu
-![catppuccin_wsl](https://github.com/IrwinJuice/catppuccin.omp/blob/main/assets/catppuccin_short_ubuntu.png)
+<details>
+<summary>Mocha</summary>
+<img src="https://github.com/IrwinJuice/catppuccin.omp/blob/main/assets/catppuccin_mocha.png"/>
+</details>
+<details>
+<summary>Macchiato</summary>
+<img src="https://github.com/IrwinJuice/catppuccin.omp/blob/main/assets/catppuccin_macchiato.png"/>
+</details>
+<details>
+<summary>Frappe</summary>
+<img src="https://github.com/IrwinJuice/catppuccin.omp/blob/main/assets/catppuccin_frapp.png"/>
+</details>
+<details>
+<summary>Latte</summary>
+<img src="https://github.com/IrwinJuice/catppuccin.omp/blob/main/assets/catppuccin_latte.png"/>
+</details>
 
 ## Usage ([Windows Terminal](https://github.com/Microsoft/Terminal))
 
