@@ -50,6 +50,8 @@ See official documentation for
 - [Linux](https://ohmyposh.dev/docs/installation/linux) or [MacOS](https://ohmyposh.dev/docs/installation/macos) installation
 - [Prompt](https://ohmyposh.dev/docs/installation/prompt) configuration
 
+[Themes for Windows Terminal from images.](https://github.com/catppuccin/windows-terminal)
+
 &nbsp;
 
 <p align="center"><img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" /></p>
