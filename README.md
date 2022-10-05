@@ -5,24 +5,26 @@
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
 </h3>
 
+![catppuccin_slim](https://github.com/IrwinJuice/catppuccin.omp/blob/main/assets/catppuccin_all_slim.png)
+
 ![catppuccin](https://github.com/IrwinJuice/catppuccin.omp/blob/main/assets/catppuccin_all.png)
 # Previews
 
 <details>
 <summary>Mocha</summary>
-<img src="https://github.com/IrwinJuice/catppuccin.omp/blob/main/assets/catppuccin_mocha.png"/>
+<img src="https://github.com/IrwinJuice/catppuccin.omp/blob/main/assets/_catppuccin_mocha_slim.png"/>
 </details>
 <details>
 <summary>Macchiato</summary>
-<img src="https://github.com/IrwinJuice/catppuccin.omp/blob/main/assets/catppuccin_macchiato.png"/>
+<img src="https://github.com/IrwinJuice/catppuccin.omp/blob/main/assets/_catppuccin_macchiato_slim.png"/>
 </details>
 <details>
 <summary>Frappe</summary>
-<img src="https://github.com/IrwinJuice/catppuccin.omp/blob/main/assets/catppuccin_frapp.png"/>
+<img src="https://github.com/IrwinJuice/catppuccin.omp/blob/main/assets/_catppuccin_frappe_slim.png"/>
 </details>
 <details>
 <summary>Latte</summary>
-<img src="https://github.com/IrwinJuice/catppuccin.omp/blob/main/assets/catppuccin_latte.png"/>
+<img src="https://github.com/IrwinJuice/catppuccin.omp/blob/main/assets/_catppuccin_latte_slim.png"/>
 </details>
 
 ## Usage ([Windows Terminal](https://github.com/Microsoft/Terminal))

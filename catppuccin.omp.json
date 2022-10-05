@@ -28,7 +28,7 @@
             "windows": "\ue70f"
           },
           "style": "diamond",
-          "template": "{{.Icon}}",
+          "template": "{{.Icon}} ",
           "type": "os"
         },
         {
@@ -36,7 +36,7 @@
           "foreground": "#494D64",
           "powerline_symbol": "\ue0b4",
           "style": "diamond",
-          "template": " {{ .UserName }} ",
+          "template": "{{ .UserName }}@{{ .HostName }}",
           "type": "session"
         },
         {
@@ -44,12 +44,12 @@
           "foreground": "#494D64",
           "properties": {
             "folder_icon": "<#494D64>..\ue5fe..</>",
-            "home_icon": "\uf015",
+            "home_icon": "~",
             "style": "agnoster_short"
           },
           "powerline_symbol": "\ue0b4",
           "style": "powerline",
-          "template": " {{ .Path }} ",
+          "template": " {{ .Path }}",
           "type": "path"
         },
         {
@@ -69,7 +69,7 @@
             "tag_icon": "\uf412 "
           },
           "powerline_symbol": "\ue0b4",
-          "template": " {{ .HEAD }} ",
+          "template": " {{ .HEAD }}",
           "type": "git"
         }
       ],
