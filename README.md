@@ -34,14 +34,13 @@
 ```
 New-Item -Path $PROFILE -Type File -Force
 ```
-- Clone catppuccin.omp.json or catppuccin_short.omp.json into any folder, for example C:\Users\<username>\AppData\Local\oh-my-posh
 - Open $PROFILE (run in PowerShell)
 ```
 notepad $PROFILE  
 ```
--  Copy next line into the opened $PROFILE and save (**DON'T forget to change PATH**):
+-  You can find the **themes** in the folder indicated by the environment variable POSH_THEMES_PATH. Copy next line into the opened $PROFILE and save (**DON'T forget to change PATH**):
 ```
-oh-my-posh init pwsh --config 'C:\Users\<username>\AppData\Local\oh-my-posh\catppuccin_short.omp.json' | Invoke-Expression
+oh-my-posh init pwsh --config "$env:POSH_THEMES_PATH\catppuccin_mocha.omp.json" | Invoke-Expression
 ```
 - Reload you $PROFILE (run in PowerShell)
 ```
