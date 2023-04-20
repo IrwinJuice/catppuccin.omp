@@ -38,7 +38,7 @@ New-Item -Path $PROFILE -Type File -Force
 ```
 notepad $PROFILE  
 ```
--  You can find the **themes** in the folder indicated by the environment variable POSH_THEMES_PATH. Copy next line into the opened $PROFILE and save (**DON'T forget to change PATH**):
+-  You can find the **themes** in the folder indicated by the environment variable POSH_THEMES_PATH. Copy next line into the opened $PROFILE and save:
 ```
 oh-my-posh init pwsh --config "$env:POSH_THEMES_PATH\catppuccin_mocha.omp.json" | Invoke-Expression
 ```
